@@ -1,0 +1,9 @@
+With the rapid development of mobile Internet and Internet of Things business, the 5G mobile communication process has been accelerated.
+ This article summarizes the Internet technology under 5G mobile communication, analyses the connotation of Internet of Things, and
+ studies the integration of 5G mobile communications and Internet of Things technology. Through the analysis and discussion of the new
+ possibilities in the Internet of Things era under 5G mobile communication technology, the research shows that the simulation analysis combined
+ with the cell breathing technology and the base station dormancy technology aims to decrease the energy consumption of the base station under the
+ premise of ensuring the communication quality, thereby improving the network energy efficiency. Research shows that in the dense and uniform user
+ distribution scenario, the power consumption has a small decrease due to the increase of power consumption, but the system capacity is
+ significantly improved and the communication quality is improved. It can ensure the user’s fairness and system capacity to achieve, and meet the
+ rate requirements of different users. The analog results verify the accuracy of the theoretical analysis.

@@ -1,0 +1,6 @@
+5G will provide broadband access everywhere, entertain higher user mobility, and enable connectivity of massive number of devices
+(e.g. Internet of Things (IoT)) in an ultra reliable and affordable way.The main technological enablers such as cloud computing,
+Software Deﬁned Networking (SDN) and Network Function Virtualization (NFV) are maturing towards the rise in 5G.However,
+there are pressing security challenges in these technologies besides the growing concerns for user privacy.
+In this paper,we provide an overview of the security challenges in these technologies and the issues of privacy in 5G.
+Furthermore, we present security solutions to these challenges and future directions for secure 5G systems.

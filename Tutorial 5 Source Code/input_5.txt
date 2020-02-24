@@ -1,0 +1,8 @@
+The multitude of 5th generation network applications, use cases and services shall have Network Slicing playing a key role in their enablement.
+Network slicing shall provide end-to-end isolation between the slices. This feature shall provide the ability to customize each of the slices based
+on the service needs such as bandwidth and latency. The slices maintaining isolation between resource allocation and traffic shall be critically
+important in protecting the network infrastructure system against Distributed Denial of Service (DDoS) attacks. Systems shall need to adapt to more
+secured security mechanisms and policies to build a robust 5G network. We are proposing a framework for ‘Secured 5G’ Neural Network creating a robust
+network slicing architecture. The proposed framework shall enable proactive detection and elimination of threats using deep learning techniques prior
+to the infestation of the core network. We shall develop a model that enables the threat to be quarantines ensuring end-toend security from device
+to the core network.

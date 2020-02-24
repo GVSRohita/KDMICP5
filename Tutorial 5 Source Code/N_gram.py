@@ -1,5 +1,10 @@
+import os
+
 from pyspark.sql import SparkSession
 from pyspark.ml.feature import NGram
+
+# System.setProperty("hadoop.home.dir", "C:\Users\gvsrohita\HADOOP\winutils");
+# os.environ['HADOOP_HOME'] = "C:\Users\gvsrohita\HADOOP"
 
 # creating spark session
 spark = SparkSession.builder .appName("Ngram Example").getOrCreate()

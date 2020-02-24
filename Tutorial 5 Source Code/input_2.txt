@@ -1,0 +1,6 @@
+5G networks will use novel technological concepts to meet the requirements of broadband access everywhere, high user and device mobility, and
+connectivity of massive number of devices (e.g., the Internet of Things) in an ultra-reliable and affordable way. Software defined networking
+and network functions virtualization leveraging the advances in cloud computing such as mobile edge computing are the most sought out technologies
+ to meet these requirements. However, securely using these technologies and providing user privacy in future wireless networks are the new concerns.
+  Therefore, this article provides an overview of the security challenges in clouds, software defined networking, and network functions virtualization,
+   and the challenges of user privacy. Henceforth, this article presents solutions to these challenges and future directions for secure 5G systems.
